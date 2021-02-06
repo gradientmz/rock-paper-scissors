@@ -22,3 +22,20 @@
     content: "";
     height:0;
 }
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.scores {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  padding: 1%
+}
+
+.events {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  padding: 1%
+}
+
