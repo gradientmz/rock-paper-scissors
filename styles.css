@@ -1,0 +1,24 @@
+  .container {
+    text-align:center;
+    width:100%;
+    height:auto;
+    padding-top:130px;
+    margin:0 auto;
+  }
+
+  .footer {
+    background:#f2f2f2;
+    font-family:arial;
+    font-color:#757575;
+    padding:5px;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    left:-5px;
+}
+.footer:after {
+    display:block;
+    clear:both;
+    content: "";
+    height:0;
+}
